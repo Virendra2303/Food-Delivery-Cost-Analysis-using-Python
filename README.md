@@ -7,3 +7,15 @@ This project delves into the world of online Food delivery sales by analyzing a 
 ### Technologies:
 **Python (Data analysis and visualization) Libraries:** Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 
+## Analysis
+**compare total revenue, total costs, and total profit (net loss in our case)**:
+![barcharts](https://i.imgur.com/CNSoQvn.jpeg)
+
+**proportion of total costs**:
+![piecharts](https://i.imgur.com/ZwqmrKD.jpeg)
+
+**distribution of costs, revenue, and profit**:
+![histogram](https://i.imgur.com/wo7Kdjo.jpeg)
+
+### Conclusion:
+From the analysis so far we understood that the discounts on food orders are resulting in huge losses. Now, we need to find a new strategy for profitability.

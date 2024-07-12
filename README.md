@@ -9,13 +9,13 @@ This project delves into the world of online Food delivery sales by analyzing a 
 
 ## Analysis
 **compare total revenue, total costs, and total profit (net loss in our case)**:
-![barcharts](https://i.imgur.com/CNSoQvn.jpeg)
+![barcharts](https://i.imgur.com/Km2P0I5.png)
 
 **proportion of total costs**:
-![piecharts](https://i.imgur.com/ZwqmrKD.jpeg)
+![piecharts](https://i.imgur.com/s0jU0z0.png)
 
 **distribution of costs, revenue, and profit**:
-![histogram](https://i.imgur.com/wo7Kdjo.jpeg)
+![histogram](https://i.imgur.com/Gbat3AC.png)
 
 ### Conclusion:
 From the analysis so far we understood that the discounts on food orders are resulting in huge losses. Now, we need to find a new strategy for profitability.
